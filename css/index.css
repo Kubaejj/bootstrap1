@@ -1,3 +1,22 @@
-#flex{
-    display: flex;
+.css{
+    margin-left: 20%;
+    margin-right: 20%;
+   
+}
+.h1{
+    margin-left: 10%;
+    font-size: 25px;
+}
+
+#alert{
+    text-align: left;
+}
+strong{
+    text-decoration: underline;
+    
+}
+
+.radius{
+    font-weight: 700;
+    font-size: 50px;
 }
